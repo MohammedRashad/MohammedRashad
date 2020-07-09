@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ### A little bit about me
-A curious engineer trying to peneterate the awesome world of inter/multidisciplinary knowledge 
+A curious engineer trying to peneterate the awesome world of inter/multidisciplinary knowledge <br/>
 My interests are everything from building systems to working with data to category theory 
 
 ### Business Domains of Experience
