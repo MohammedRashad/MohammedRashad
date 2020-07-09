@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**MohammedRashad/MohammedRashad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A little bit about me
+Driven by passion and guided by discipline, I'm a Professional Software Engineer & finishing a degree in Electronics & Communications Engineering, with 5+ years of experience in various multinationals, startups and teams, interacting with a range of problems..
 
-Here are some ideas to get you started:
+I work with Software from building websites and apps, designing robots or developing machine learning applications, alongside experimenting with many ideas and trying to fulfill my curiosity by learning everything I can put my hands on.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm T-shaped minded person, interested in interdisciplinary and multidisciplinary work, considering this, I work to find the links between different disciplines and integrate them for a solution.
+
+Trying to make this world better, by applying egnineering and spreading knowledge.
+
+### Business Domains of Experience
+Financial Technology (FinTech) – Supply Chain – Telecommunication – Industry 4.0
+
+### Technical Fields of Interest
+#### Machine & Deep Learning
+Design and Implementation of real-life AI Products,
+with focus on Computer Vision, NLP and Time-Series Forecasting.
+
+#### Software & System Design
+Software planning from business requirement gathering to the production,
+Software systems design & architecture, deployments and delivery to various clients.
+
+#### Scientific Programming & Simulations
+Implementing Algorithms and Simulations in scientific enviornments with focus in
+communication systems, electronics, DSP and control systems.
+
+##### Backend Development & DevOps
+Developing APIs & Backends for various products and maintaing tests, production/dev pipelines
+while helping developers have an easier life, with a huge focus on Distributed Systems and System Automation.
+
+# Let's Connect
+I'm open to all opportunities, or just say hi :)
