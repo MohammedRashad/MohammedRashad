@@ -1,4 +1,4 @@
-# Hi there 👋
+# Saluton miaj amikoj 👋
 
 ### A little bit about me
 A curious engineer trying to peneterate the awesome world of inter/multidisciplinary knowledge <br/>
