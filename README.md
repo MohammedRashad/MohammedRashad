@@ -20,6 +20,7 @@ My interests are everything from building systems to working with data to catego
 - Applied Mathematical Optimization
 - Formal Software Design Methods
 - Graphical Representation of Knowledge
+- Applied Artificial Intelligence  
 
 # Let's Connect
 I'm open to all opportunities, or just say hi :)
