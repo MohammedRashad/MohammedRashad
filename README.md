@@ -16,5 +16,10 @@ My interests are everything from building systems to working with data to catego
 - Scientific Programming & Simulations
 - Backend Development & DevOps
 
+### Research Interests
+- Applied Mathematical Optimization
+- Formal Software Design Methods
+- Graphical Representation of Knowledge
+
 # Let's Connect
 I'm open to all opportunities, or just say hi :)
