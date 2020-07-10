@@ -23,4 +23,4 @@ My interests are everything from building systems to working with data to catego
 - Applied Artificial Intelligence  
 
 **Let's Connect** <br/>
-I'm open to all opportunities, or just say hi :)
+I'm open to all opportunities, or just saying hi :)
