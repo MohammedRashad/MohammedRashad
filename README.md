@@ -17,9 +17,11 @@ My interests are everything from building systems to working with data to catego
 - Backend Development & DevOps
  
 **Research Interests** <br/>
-- Applied Mathematical Optimization
 - Formal Software Design Methods
 - Graphical Representation of Knowledge
+- Diagrammatic reasoning
+- Applied Mathematical Optimization
+- Applied Category Theory
 - Applied Artificial Intelligence  
 
 **Let's Connect** <br/>
