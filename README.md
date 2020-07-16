@@ -1,7 +1,7 @@
 # Saluton miaj amikoj 👋
 
 **A little bit about me** <br/>
-A curious engineer trying to peneterate the awesome world of inter/multidisciplinary knowledge <br/>
+A curious engineer trying to penetrate the awesome world of inter/multidisciplinary knowledge <br/>
 My interests are everything from building systems to working with data to category theory 
 
 **Business Domains of Experience** <br/>
