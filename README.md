@@ -19,7 +19,7 @@ My interests are everything from building systems to working with data to catego
 **Research Interests** <br/>
 - Formal Software Design Methods
 - Graphical Representation of Knowledge
-- Diagrammatic reasoning
+- Diagrammatic reasoning / Diagrammatic Syntax
 - Applied Mathematical Optimization
 - Applied Category Theory
 - Applied Artificial Intelligence  
