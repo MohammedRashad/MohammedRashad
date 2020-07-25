@@ -6,6 +6,7 @@ My interests are everything from building systems to working with data to catego
 
 **Business Domains of Experience** <br/>
 - Financial Technology (FinTech)
+- Regulatory Technology (RegTech)
 - Supply Chain 
 - Telecommunication 
 - Industry 4.0
