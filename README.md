@@ -12,10 +12,11 @@ My interests are everything from building systems to working with data to catego
 - Industry 4.0
 
 **Technical Fields of Interest** <br/>
-- Machine & Deep Learning
+- AI, Machine Learning & Deep Learning
 - Software & System Design
 - Scientific Programming & Simulations
 - Backend Development & DevOps
+- Computer Vision, NLP, Time-Series Analysis
  
 **Research Interests** <br/>
 - Formal Software Design Methods
