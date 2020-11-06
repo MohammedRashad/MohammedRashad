@@ -2,7 +2,7 @@
 
 **A little bit about me** <br/>
 A curious engineer trying to penetrate the awesome world of inter/multidisciplinary knowledge <br/>
-My interests are everything from building systems to working with data to category theory 
+My interests are everything from building systems, working with data to category theory 
 
 
 
