@@ -33,7 +33,7 @@ I'm open to all opportunities, or just saying hi :)
 
 - 📝 I regulary write articles on [https://analogguydigitalworld.wordpress.com/](https://analogguydigitalworld.wordpress.com/)
 
-- 📫 How to reach me **mohamed.rashad@ieee.org**
+- 📫 How to reach me **mrashad74@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
