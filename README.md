@@ -6,24 +6,16 @@ My interests are everything from building systems, working with data to category
 
 
 **Business Domains of Experience** <br/>
-- Financial Technology (FinTech)
-- Telecommunication 
-- Industry 4.0
+- Financial Technology (FinTech) - Telecommunication  - Industry 4.0
 
 **Technical Fields of Interest** <br/>
-- AI, Machine Learning & Deep Learning
-- Software & System Design
-- Scientific Programming & Simulations
-- Backend Development & DevOps
-- Computer Vision, NLP, Time-Series Analysis
+- AI, Machine Learning & Deep Learning - Software & System Design - Scientific Programming & Simulations
+- Backend Development & DevOps - Computer Vision, NLP, Time-Series Analysis
  
 **Research Interests** <br/>
-- Formal Software Design Methods
-- Graphical Representation of Knowledge
-- Diagrammatic reasoning / Diagrammatic Syntax
-- Applied Mathematical Optimization
-- Applied Category Theory
-- Applied Artificial Intelligence  
+- Formal Software Design Methods - Mathematical Modeling - Programming Language Design
+- Applied Mathematical Optimization - Applied Category Theory - Applied Artificial Intelligence
+- Systems Engineering
 
 **Let's Connect** <br/>
 I'm open to all opportunities, or just saying hi :)
@@ -42,5 +34,3 @@ I'm open to all opportunities, or just saying hi :)
 <a href="https://linkedin.com/in/rashaddism" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rashaddism" height="30" width="40" /></a>
 <a href="https://fb.com/rashaddism" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rashaddism" height="30" width="40" /></a>
 </p>
-
-
