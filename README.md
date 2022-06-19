@@ -4,7 +4,7 @@
 A curious engineer trying to penetrate the awesome world of inter/multidisciplinary knowledge <br/>
 My interests are everything from building systems, working with data to category theory.  <br/>
 
-`I'm dedicated to improving how build software rigorously.`
+`I'm dedicated to improving how build software mathematically.`
 
 **Business Domains of Experience** <br/>
 - Financial Technology (FinTech) - Telecommunication  - Industry 4.0
