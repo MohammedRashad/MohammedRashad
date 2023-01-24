@@ -21,32 +21,32 @@ I believe that empowering of the community is integral to advancing the engineer
 ---
 
 ► Business Domains of Experience :<br/>
-• FinTech <br/>
-• Telecom<br/>
-• Industry 4.0<br/>
-• Digital Transformation <br/>
-• Robotics & Avionics <br/>
+• FinTech 
+• Telecom
+• Industry 4.0 
+• Digital Transformation 
+• Robotics & Avionics 
 <br/><br/>
-►Technical Fields of Interest :
-• Machine & Deep Learning <br/>
-• Software & System Design <br/>
-• Scientific Programming & Simulations <br/>
-• Backend Development & DevOps <br/>
-• Digital Signal Processing <br/>
-• Distributed Systems <br/>
-• Systems Engineering <br/>
-• Control Engineering <br/>
-• Aircraft Systems  <br/>
-• Robotics <br/>
+►Technical Fields of Interest :<br/>
+• Machine & Deep Learning 
+• Software & System Design
+• Scientific Programming & Simulations 
+• Backend Development & DevOps 
+• Digital Signal Processing 
+• Distributed Systems 
+• Systems Engineering 
+• Control Engineering 
+• Aircraft Systems  
+• Robotics 
 <br/><br/>
 ►Research Interests :<br/>
-• Formal Software Design Methods<br/>
-• Mathematical Modeling<br/>
-• Programming Language Design<br/>
-• Applied Mathematical Optimization<br/>
-• Applied Category Theory<br/>
-• Applied Artificial Intelligence<br/>
-• Systems Engineering<br/>
-• Control Theory<br/>
+• Formal Software Design Methods
+• Mathematical Modeling
+• Programming Language Design
+• Applied Mathematical Optimization
+• Applied Category Theory
+• Applied Artificial Intelligence
+• Systems Engineering
+• Control Theory
 
  
