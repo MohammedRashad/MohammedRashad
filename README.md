@@ -5,7 +5,7 @@ I'm T-shaped minded person, interested in interdisciplinary and multidisciplinar
             <br/> <br/>
 My focus is developing deep/high tech and delivering real value to business.
             <br/>
-I am an early adopter of disruptive ideas, and I helped building multiple successful products across multiple domains, for example :
+I am an early adopter of disruptive ideas, and I helped building multiple successful products across multiple domains, for example :<br/>
             • TAI Automation & Analytics Platform @ Nokia  <br/>
             • AI-Powered e-KYC Platform @ Digified <br/>
             • Talent Matchmaking Platform @ Lyrise <br/>
