@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Rashad</h1>
-            With 9+ years of experience in various multinationals & startups, interacting with a diverse set of problems. I've worked with software & hardware from building websites and apps, designing robots or developing machine learning applications, alongside experimenting with many ideas and trying to fulfill my curiosity by learning everything I can put my hands on.
+            With 11+ years of experience in various multinationals & startups, interacting with a diverse set of problems. I've worked with software & hardware from building websites and apps, designing robots or developing machine learning applications, alongside experimenting with many ideas and trying to fulfill my curiosity by learning everything I can put my hands on.
             <br/> <br/>
 I'm T-shaped minded person, interested in interdisciplinary and multidisciplinary work, considering this, I work to find the links between different disciplines and integrate them for a solution. Trying to make this world better, by applying egnineering and spreading knowledge.
             <br/> <br/>
